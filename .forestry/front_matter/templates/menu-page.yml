@@ -8,3 +8,5 @@ fields:
   name: menu-type
   template_types:
   - seafood
+- type: list
+  default: []
