@@ -6,3 +6,5 @@ fields:
 - type: blocks
   label: Menu Type
   name: menu-type
+  template_types:
+  - seafood
